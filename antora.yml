@@ -1,0 +1,6 @@
+name: antsite2
+title: AntSite2
+version: ~
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc
